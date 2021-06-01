@@ -1,0 +1,13 @@
+https://realpython.com/logistic-regression-python/
+https://medium.com/@dominykastunaitis/from-scipy-import-stats-stats-chisqprob-lambda-chisq-df-stats-chi2-sf-chisq-df-7e484ff5b41
+https://www.scribbr.com/statistics/multiple-linear-regression/
+https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/what-is-a-z-score-what-is-a-p-value.htm
+https://stats.stackexchange.com/questions/329465/assessing-a-b-test-results-using-python
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+https://docs.w3cub.com/statsmodels/generated/statsmodels.stats.proportion.proportions_ztest
+https://www.statsmodels.org/stable/generated/statsmodels.stats.proportion.proportions_ztest.html
+https://www.w3schools.com/python/numpy/numpy_random_binomial.asp
+https://www.gormanalysis.com/blog/python-numpy-for-your-grandma-3-7-random/
+https://levelup.gitconnected.com/probability-for-data-science-with-numpy-7e76e5e65910
+https://stackoverflow.com/questions/27644617/difference-between-n-and-size-parameters-in-np-random-binomialn-p-size-1000
+https://www.tutorialspoint.com/scipy/scipy_stats.htm
